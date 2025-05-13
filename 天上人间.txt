@@ -1,0 +1,813 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="✴️今日香港✴️",翡翠台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTrGvONmUFpaR5K7BF_x8/ts
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="✴️今日香港✴️",翡翠台
+p3p://173.208.176.178:31809/653e4c02000ea0440c8c63fd3e5d709d
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="✴️今日香港✴️",翡翠台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdHe-v7qjmH6tuhLmDZ_waY/ts
+#EXTINF:-1 tvg-name="翡翠台(美加·东岸时区)" tvg-logo="https://live.fanmingming.cn/tv/翡翠台(美加·东岸时区).png" group-title="✴️今日香港✴️",翡翠台(美加·东岸时区)
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdHe-v7qjmH6tuhLmDZ_waY/ts
+#EXTINF:-1 tvg-name="翡翠台(美加·西岸时区)" tvg-logo="https://live.fanmingming.cn/tv/翡翠台(美加·西岸时区).png" group-title="✴️今日香港✴️",翡翠台(美加·西岸时区)
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台(欧·新时区)" tvg-logo="https://live.fanmingming.cn/tv/翡翠台(欧·新时区).png" group-title="✴️今日香港✴️",翡翠台(欧·新时区)
+p3p://173.208.176.178:31809/653e4c02000ea0440c8c63fd3e5d709d
+#EXTINF:-1 tvg-name="翡翠台(英国时区)" tvg-logo="https://live.fanmingming.cn/tv/翡翠台(英国时区).png" group-title="✴️今日香港✴️",翡翠台(英国时区)
+http://61.163.58.168:2005/play/forward/5?tvid=TVBJUK&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="✴️今日香港✴️",翡翠台
+p3p://173.208.176.178:31809/653e4c02000ea0440c8c63fd3e5d709d
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="✴️今日香港✴️",翡翠台
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn&sp=chaojidianshi
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="✴️今日香港✴️",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="✴️今日香港✴️",无线新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbJZ-yx1uW34gmsbEWMViLM/ts
+#EXTINF:-1 tvg-name="Now 新闻台" tvg-logo="https://live.fanmingming.cn/tv/Now 新闻台.png" group-title="✴️今日香港✴️",Now 新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVCgZM5q4ri_gdWTla-40ys/ts
+#EXTINF:-1 tvg-name="Now 财经台" tvg-logo="https://live.fanmingming.cn/tv/Now 财经台.png" group-title="✴️今日香港✴️",Now 财经台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRahVwO1bSMnwQFaIoi9000/ts
+#EXTINF:-1 tvg-name="Now 直播台" tvg-logo="https://live.fanmingming.cn/tv/Now 直播台.png" group-title="✴️今日香港✴️",Now 直播台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeWowjWsBNuQT-jQnUlMhMc/ts
+#EXTINF:-1 tvg-name="Now 华剧台" tvg-logo="https://live.fanmingming.cn/tv/Now 华剧台.png" group-title="✴️今日香港✴️",Now 华剧台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMf_r6vWVFzWTm805baDNRSU/ts
+#EXTINF:-1 tvg-name="Now Viu剧集台" tvg-logo="https://live.fanmingming.cn/tv/Now Viu剧集台.png" group-title="✴️今日香港✴️",Now Viu剧集台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbPr1f0Shqj_kxET2sJIN7Q/ts
+#EXTINF:-1 tvg-name="Now 爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now 爆谷台.png" group-title="✴️今日香港✴️",Now 爆谷台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZVNyQVmyANj495gjXHVg68/ts
+#EXTINF:-1 tvg-name="Now 星影台" tvg-logo="https://live.fanmingming.cn/tv/Now 星影台.png" group-title="✴️今日香港✴️",Now 星影台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdpqGJFnkY8FMjEZ5klbgps/ts
+#EXTINF:-1 tvg-name="Now Sports 精选" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 精选.png" group-title="✴️今日香港✴️",Now Sports 精选
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWoza8elgETieC9SGxlVHYA/ts
+#EXTINF:-1 tvg-name="Now Sports 1" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 1.png" group-title="✴️今日香港✴️",Now Sports 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcCOLF6Wx_l-Lcr4GkVYc/ts
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 2.png" group-title="✴️今日香港✴️",Now Sports 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQrchveTxDggiOHQvYPdrzk/ts
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 3.png" group-title="✴️今日香港✴️",Now Sports 3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTiGUllgYGLCqj4SlsTVCt0/ts
+#EXTINF:-1 tvg-name="Now Sports 4" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 4.png" group-title="✴️今日香港✴️",Now Sports 4
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQK6M977mDFGLWWdfsodFbo/ts
+#EXTINF:-1 tvg-name="Now Sports 5" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 5.png" group-title="✴️今日香港✴️",Now Sports 5
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMY9ZMe4i8TzMsHOKOBlrJLM/ts
+#EXTINF:-1 tvg-name="Now Sports 6" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 6.png" group-title="✴️今日香港✴️",Now Sports 6
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMd_aO7pDeHwB7Ax2AuuKIdA/ts
+#EXTINF:-1 tvg-name="Now Sports 7" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 7.png" group-title="✴️今日香港✴️",Now Sports 7
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMR5Cu4kKIXLPcVZ6AmIJMfY/ts
+#EXTINF:-1 tvg-name="Now Sports 英超粤" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 英超粤.png" group-title="✴️今日香港✴️",Now Sports 英超粤
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQm_5UQDloq45eOG0o57BK4/ts
+#EXTINF:-1 tvg-name="HK VIU TV H265" tvg-logo="https://live.fanmingming.cn/tv/HK VIU TV H265.png" group-title="✴️今日香港✴️",HK VIU TV H265
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYNe_GECtJBwPw3IKolcfKk/ts
+#EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://live.fanmingming.cn/tv/TVB J2.png" group-title="✴️今日香港✴️",TVB J2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcO5U6MtekZjLYeflFBxPJU/ts
+#EXTINF:-1 tvg-name="HKC有线18台" tvg-logo="https://live.fanmingming.cn/tv/HKC有线18台.png" group-title="✴️今日香港✴️",HKC有线18台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZ0UH3sQG4DM9XG-9KswwWQ/ts
+#EXTINF:-1 tvg-name="RTHK 31" tvg-logo="https://live.fanmingming.cn/tv/RTHK 31.png" group-title="✴️今日香港✴️",RTHK 31
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYGk7g1yMsCsWHXSo3ulzpE/ts
+#EXTINF:-1 tvg-name="RTHK 32" tvg-logo="https://live.fanmingming.cn/tv/RTHK 32.png" group-title="✴️今日香港✴️",RTHK 32
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaM54HwiRUdGc7W3xHy3epg/ts
+#EXTINF:-1 tvg-name="RTHK 33" tvg-logo="https://live.fanmingming.cn/tv/RTHK 33.png" group-title="✴️今日香港✴️",RTHK 33
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQs4y88ekCfKebFIcsyby6E/ts
+#EXTINF:-1 tvg-name="RTHK 34" tvg-logo="https://live.fanmingming.cn/tv/RTHK 34.png" group-title="✴️今日香港✴️",RTHK 34
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQflc44Zsw5PvGJkj0ppKCQ/ts
+#EXTINF:-1 tvg-name="RTHK 35" tvg-logo="https://live.fanmingming.cn/tv/RTHK 35.png" group-title="✴️今日香港✴️",RTHK 35
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSyQD9NGSDaWc64YSnTSJPE/ts
+#EXTINF:-1 tvg-name="HOY 77" tvg-logo="https://live.fanmingming.cn/tv/HOY 77.png" group-title="✴️今日香港✴️",HOY 77
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUetMT_XCIupC0pvW_7_Yz0/ts
+#EXTINF:-1 tvg-name="HOY 78" tvg-logo="https://live.fanmingming.cn/tv/HOY 78.png" group-title="✴️今日香港✴️",HOY 78
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbf6KEaWEmaLxBpbtHWBR7E/ts
+#EXTINF:-1 tvg-name="HOY 香港国际财经" tvg-logo="https://live.fanmingming.cn/tv/HOY 香港国际财经.png" group-title="✴️今日香港✴️",HOY 香港国际财经
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfej6CJg1a2uJwUYPJSUg/ts
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港台.png" group-title="✴️今日香港✴️",凤凰香港台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilManPZk6rmpnE9fXTMls7vmQ/ts
+#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文台.png" group-title="✴️今日香港✴️",凤凰中文台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVZmq5_Bg03Zvtot27esY7M/ts
+#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯台.png" group-title="✴️今日香港✴️",凤凰资讯台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWpaIowjj21NHAhFahcRDK0/ts
+#EXTINF:-1 tvg-name="TVB 黄金翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB 黄金翡翠台.png" group-title="✴️今日香港✴️",TVB 黄金翡翠台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZdRkAOPbN-IFaPLILvONBs/ts
+#EXTINF:-1 tvg-name="TVB 千禧经典台" tvg-logo="https://live.fanmingming.cn/tv/TVB 千禧经典台.png" group-title="✴️今日香港✴️",TVB 千禧经典台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbPPvCgG_8Lqgz8yqCjzPCI/ts
+#EXTINF:-1 tvg-name="TVB 娱乐新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVB 娱乐新闻台.png" group-title="✴️今日香港✴️",TVB 娱乐新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRnWaqX0lqdvMCdL_BEyx_Y/ts
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.cn/tv/美亚电影台.png" group-title="✴️今日香港✴️",美亚电影台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMS-OGsHt6GMlhv9aRB78A1s/ts
+#EXTINF:-1 tvg-name="TVB 黄金华剧台" tvg-logo="https://live.fanmingming.cn/tv/TVB 黄金华剧台.png" group-title="✴️今日香港✴️",TVB 黄金华剧台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSx5UbrsqAqVefBfS2migxk/ts
+#EXTINF:-1 tvg-name="TVB 华语剧台" tvg-logo="https://live.fanmingming.cn/tv/TVB 华语剧台.png" group-title="✴️今日香港✴️",TVB 华语剧台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfZDPo24x0yUwTHnbpvaA7w/ts
+#EXTINF:-1 tvg-name="TVB 亚洲剧台" tvg-logo="https://live.fanmingming.cn/tv/TVB 亚洲剧台.png" group-title="✴️今日香港✴️",TVB 亚洲剧台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbirma-I2j9ncZvRrzySNjU/ts
+#EXTINF:-1 tvg-name="TVB 功夫台" tvg-logo="https://live.fanmingming.cn/tv/TVB 功夫台.png" group-title="✴️今日香港✴️",TVB 功夫台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQHk3QyQrKGOEbIdWapGPo8/ts
+#EXTINF:-1 tvg-name="TVB 粤语片台" tvg-logo="https://live.fanmingming.cn/tv/TVB 粤语片台.png" group-title="✴️今日香港✴️",TVB 粤语片台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeSDyw6uP1L5wAsDNe5WNZ0/ts
+#EXTINF:-1 tvg-name="TVB 戏曲台" tvg-logo="https://live.fanmingming.cn/tv/TVB 戏曲台.png" group-title="✴️今日香港✴️",TVB 戏曲台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc64dgWCyAtHHd2omqkg9cg/ts
+#EXTINF:-1 tvg-name="TVB 星河(粤)" tvg-logo="https://live.fanmingming.cn/tv/TVB 星河(粤).png" group-title="✴️今日香港✴️",TVB 星河(粤)
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRQlJonB_00kN2mJV7tfDK0/ts
+#EXTINF:-1 tvg-name="TVB 星河(国)" tvg-logo="https://live.fanmingming.cn/tv/TVB 星河(国).png" group-title="✴️今日香港✴️",TVB 星河(国)
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQjLBsf3EKmRG4q-9ABks8U/ts
+#EXTINF:-1 tvg-name="SUPER Kids Channel" tvg-logo="https://live.fanmingming.cn/tv/SUPER Kids Channel.png" group-title="✴️今日香港✴️",SUPER Kids Channel
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcfskFILpAgDK3pLU5GHTXc/ts
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://live.fanmingming.cn/tv/ZooMoo.png" group-title="✴️今日香港✴️",ZooMoo
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMd1_GLlxJpTKGj6NdKQ0Z24/ts
+#EXTINF:-1 tvg-name="TVB myTV SUPER 18台" tvg-logo="https://live.fanmingming.cn/tv/TVB myTV SUPER 18台.png" group-title="✴️今日香港✴️",TVB myTV SUPER 18台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcisiX3v0Yx7LH4P-NiVt-g/ts
+#EXTINF:-1 tvg-name="NHKS香港卫视" tvg-logo="https://live.fanmingming.cn/tv/NHKS香港卫视.png" group-title="✴️今日香港✴️",NHKS香港卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdI8vKWi2YHxF_MHUemaiyY/ts
+#EXTINF:-1 tvg-name="香港C+频道" tvg-logo="https://live.fanmingming.cn/tv/香港C+频道.png" group-title="✴️今日香港✴️",香港C+频道
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbxecjjDEeeQW3jiksLBYvo/ts
+#EXTINF:-1 tvg-name="澳门莲花卫视" tvg-logo="https://live.fanmingming.cn/tv/澳门莲花卫视.png" group-title="✴️今日香港✴️",澳门莲花卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSHXxXPpzvAVbyHc9BEEGCE/ts
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="✴️今日台湾✴️",中天新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRhyQ2UAM3pyNQQNhih1k/ts
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://live.fanmingming.cn/tv/东森新闻台.png" group-title="✴️今日台湾✴️",东森新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMV9UnjC2AV9iztcfqLfLsFU/ts
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻台.png" group-title="✴️今日台湾✴️",TVBS新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc1Nf_vU2X4IBCc3ET4u8nk/ts
+#EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="https://live.fanmingming.cn/tv/壹电视新闻台.png" group-title="✴️今日台湾✴️",壹电视新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMV-KnxkWMOj99fzQQnLfQ94/ts
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://live.fanmingming.cn/tv/三立新闻.png" group-title="✴️今日台湾✴️",三立新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfXyy_fJiONhObjwniphblk/ts
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png" group-title="✴️今日台湾✴️",民视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQoCWlVxmpdFL3hxm7YCrjA/ts
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="✴️今日台湾✴️",台视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ7AGla88ChwikROfehnEVg/ts
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻台.png" group-title="✴️今日台湾✴️",寰宇新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaKaGKOxgkCJLculaI7T8TQ/ts
+#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻台湾台.png" group-title="✴️今日台湾✴️",寰宇新闻台湾台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ0djhPQezkn1d3mvzVMf18/ts
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.cn/tv/年代新闻.png" group-title="✴️今日台湾✴️",年代新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSezPQso4bEU3RLFsh8ZnNg/ts
+#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://live.fanmingming.cn/tv/非凡新闻台.png" group-title="✴️今日台湾✴️",非凡新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRO7F6JluwNXJBh1Vjcto4k/ts
+#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://live.fanmingming.cn/tv/镜新闻.png" group-title="✴️今日台湾✴️",镜新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZx8PetG7rkWQ7JzdXxL3p0/ts
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.cn/tv/东森财经新闻.png" group-title="✴️今日台湾✴️",东森财经新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdJYXBWf0Nkh85PFFybkyTI/ts
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://live.fanmingming.cn/tv/寰宇财经.png" group-title="✴️今日台湾✴️",寰宇财经
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSjl0lOi-IIqh9qrsYenRP4/ts
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.cn/tv/东森超视.png" group-title="✴️今日台湾✴️",东森超视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc9QuFaha0xwUW58_XtYHag/ts
+#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://live.fanmingming.cn/tv/台视财经.png" group-title="✴️今日台湾✴️",台视财经
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdASYZ4OnVFoWyvQiBmPBmg/ts
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻.png" group-title="✴️今日台湾✴️",中视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeeZdFUcZfBpAtuEZ024x2s/ts
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="✴️今日台湾✴️",华视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSiAMdPC0PIzstY_eYtPqP4/ts
+#EXTINF:-1 tvg-name="三立INEWS" tvg-logo="https://live.fanmingming.cn/tv/三立INEWS.png" group-title="✴️今日台湾✴️",三立INEWS
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbhAO3rJTcmuw7ZCb_ZedG4/ts
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.cn/tv/民视.png" group-title="✴️今日台湾✴️",民视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUMMGXCCWwobXn4-_iHOp-s/ts
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.cn/tv/台视.png" group-title="✴️今日台湾✴️",台视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbQBskVega0N_ApOhoy7Wls/ts
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.cn/tv/中视.png" group-title="✴️今日台湾✴️",中视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaGI63B8yHmrITyoDAa0sCU/ts
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.cn/tv/华视.png" group-title="✴️今日台湾✴️",华视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWJfeyq0rWoLDYbfd00s5ac/ts
+#EXTINF:-1 tvg-name="公视3" tvg-logo="https://live.fanmingming.cn/tv/公视3.png" group-title="✴️今日台湾✴️",公视3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbBu5KOYJnG4zq4ndY4Nzvs/ts
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://live.fanmingming.cn/tv/公视戏剧.png" group-title="✴️今日台湾✴️",公视戏剧
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfkf0GnKlORPiXA8bABjNZY/ts
+#EXTINF:-1 tvg-name="公视台语" tvg-logo="https://live.fanmingming.cn/tv/公视台语.png" group-title="✴️今日台湾✴️",公视台语
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfHLLNQENatEAKfOTQg63qI/ts
+#EXTINF:-1 tvg-name="TVBS綜合" tvg-logo="https://live.fanmingming.cn/tv/TVBS綜合.png" group-title="✴️今日台湾✴️",TVBS綜合
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMReDF_3ZerTqWtpP6s7vpEI/ts
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.cn/tv/TVBS欢乐.png" group-title="✴️今日台湾✴️",TVBS欢乐
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTJWEebh72pUqPQKCIWY0iY/ts
+#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://live.fanmingming.cn/tv/TVBS精采.png" group-title="✴️今日台湾✴️",TVBS精采
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVKZeYE1fls0mA6t7zV78Zc/ts
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://live.fanmingming.cn/tv/东森综合.png" group-title="✴️今日台湾✴️",东森综合
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaGNqjmhDkAfq9hIasvQDws/ts
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png" group-title="✴️今日台湾✴️",东森电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeyA6XYa4ouz4vd_UK4BPIs/ts
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://live.fanmingming.cn/tv/东森戏剧.png" group-title="✴️今日台湾✴️",东森戏剧
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMf6rym0VME4rVFFvrhRqr0M/ts
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://live.fanmingming.cn/tv/东森洋片.png" group-title="✴️今日台湾✴️",东森洋片
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ7RhdVKbO8PkjlYaHwgHEw/ts
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://live.fanmingming.cn/tv/中天综合.png" group-title="✴️今日台湾✴️",中天综合
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUjyPixJbT_pBBw7zhMSkI0/ts
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png" group-title="✴️今日台湾✴️",中天娱乐
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaZOEZcWc2s8OFGPmxpoRYM/ts
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲.png" group-title="✴️今日台湾✴️",中天亚洲
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRfhyb_Ekub8I_4oQ2QauCY/ts
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.cn/tv/三立综合.png" group-title="✴️今日台湾✴️",三立综合
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdeAlNrJfgMFFrh6EtJHlew/ts
+#EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://live.fanmingming.cn/tv/三立台湾.png" group-title="✴️今日台湾✴️",三立台湾
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSKm61v3s6SdbRTLS6ty-qg/ts
+#EXTINF:-1 tvg-name="三立都会" tvg-logo="https://live.fanmingming.cn/tv/三立都会.png" group-title="✴️今日台湾✴️",三立都会
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWMOieI_1Fw7fK7eyg4Gxy8/ts
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://live.fanmingming.cn/tv/三立戏剧.png" group-title="✴️今日台湾✴️",三立戏剧
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQRC_rkIRyL21qhqjlaN-jE/ts
+#EXTINF:-1 tvg-name="三立国际" tvg-logo="https://live.fanmingming.cn/tv/三立国际.png" group-title="✴️今日台湾✴️",三立国际
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc3fH1Jmo17IN-hc2B8dUJA/ts
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://live.fanmingming.cn/tv/中视经典.png" group-title="✴️今日台湾✴️",中视经典
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZbWL0p5SQWT74c6PmYHGO4/ts
+#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://live.fanmingming.cn/tv/中视菁采.png" group-title="✴️今日台湾✴️",中视菁采
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTk07DK_miukZVH_5e6oyLI/ts
+#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://live.fanmingming.cn/tv/民视旅游.png" group-title="✴️今日台湾✴️",民视旅游
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVwTVdtlD6_rVAwVabSitZY/ts
+#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://live.fanmingming.cn/tv/民视综艺.png" group-title="✴️今日台湾✴️",民视综艺
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUjFKC8n95p71KuwdDb3I-E/ts
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://live.fanmingming.cn/tv/民视第一.png" group-title="✴️今日台湾✴️",民视第一
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWEboDTN--EULWuw-lnYPPQ/ts
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://live.fanmingming.cn/tv/民视影剧.png" group-title="✴️今日台湾✴️",民视影剧
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfv_AXZcjRu__ZcS22mf9MA/ts
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.cn/tv/民视台湾.png" group-title="✴️今日台湾✴️",民视台湾
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXrGh0k85DRZkE7OOAx6IHc/ts
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.cn/tv/美亚电影.png" group-title="✴️今日台湾✴️",美亚电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeDQ3UUzBXRce7Q4sPxFA-I/ts
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png" group-title="✴️今日台湾✴️",HBO
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRwjnfw7YEqBk1VrzRpBV8c/ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://live.fanmingming.cn/tv/HBO Signature.png" group-title="✴️今日台湾✴️",HBO Signature
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ8iMqbY_LVqcdNqT0MWMiw/ts
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.cn/tv/HBO Family.png" group-title="✴️今日台湾✴️",HBO Family
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeblAgIQFm7aVgKMvA9H8nQ/ts
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://live.fanmingming.cn/tv/HBO Hits.png" group-title="✴️今日台湾✴️",HBO Hits
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVPZrZ3va9OpPaSZACGA1Ic/ts
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://live.fanmingming.cn/tv/Cinemax.png" group-title="✴️今日台湾✴️",Cinemax
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbsWuMefL7WAHMF6iqZsQ30/ts
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.cn/tv/AXN.png" group-title="✴️今日台湾✴️",AXN
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQn4zYrc_W-3MobTXJRk-GU/ts
+#EXTINF:-1 tvg-name="CI 罪案侦查频道" tvg-logo="https://live.fanmingming.cn/tv/CI 罪案侦查频道.png" group-title="✴️今日台湾✴️",CI 罪案侦查频道
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRGgIWuZJt_HQrnZBCprcXM/ts
+#EXTINF:-1 tvg-name="CATCHPLAY电影台" tvg-logo="https://live.fanmingming.cn/tv/CATCHPLAY电影台.png" group-title="✴️今日台湾✴️",CATCHPLAY电影台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbOcoETIkG7UZOZEJQrKD_s/ts
+#EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://live.fanmingming.cn/tv/影迷数位电影台.png" group-title="✴️今日台湾✴️",影迷数位电影台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbNqCGVU72LuoX8Zt9aBojg/ts
+#EXTINF:-1 tvg-name="影迷数位纪实" tvg-logo="https://live.fanmingming.cn/tv/影迷数位纪实.png" group-title="✴️今日台湾✴️",影迷数位纪实
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMet3HhBOSG8Oq3kw6EqNUV4/ts
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://live.fanmingming.cn/tv/龙祥电影.png" group-title="✴️今日台湾✴️",龙祥电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTzinYC8qHYi9P_eHWGb6Jo/ts
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://live.fanmingming.cn/tv/好莱坞电影.png" group-title="✴️今日台湾✴️",好莱坞电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfhADbv4pvEfKUfXebFqADc/ts
+#EXTINF:-1 tvg-name="华纳电视 warner" tvg-logo="https://live.fanmingming.cn/tv/华纳电视 warner.png" group-title="✴️今日台湾✴️",华纳电视 warner
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdTFZYm3H1FwnEAOoi_zrpg/ts
+#EXTINF:-1 tvg-name="My Cinema Europe" tvg-logo="https://live.fanmingming.cn/tv/My Cinema Europe.png" group-title="✴️今日台湾✴️",My Cinema Europe
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRvr4zr1Y9vDC0P7TWAKj3w/ts
+#EXTINF:-1 tvg-name="Cinema World" tvg-logo="https://live.fanmingming.cn/tv/Cinema World.png" group-title="✴️今日台湾✴️",Cinema World
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeVlV-CrH_oKQpJrxjiv3Ro/ts
+#EXTINF:-1 tvg-name="AMC最爱电影" tvg-logo="https://live.fanmingming.cn/tv/AMC最爱电影.png" group-title="✴️今日台湾✴️",AMC最爱电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdjkH-y9ULk0-jp053eervk/ts
+#EXTINF:-1 tvg-name="视纳华仁纪实" tvg-logo="https://live.fanmingming.cn/tv/视纳华仁纪实.png" group-title="✴️今日台湾✴️",视纳华仁纪实
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYOQHDonNhas8S3gugLjGSQ/ts
+#EXTINF:-1 tvg-name="HITS频道" tvg-logo="https://live.fanmingming.cn/tv/HITS频道.png" group-title="✴️今日台湾✴️",HITS频道
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUev3xJcGqLrkph2ugWINZQ/ts
+#EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://live.fanmingming.cn/tv/八大精彩.png" group-title="✴️今日台湾✴️",八大精彩
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbNC-Ot-yPmkfxrON05EsSM/ts
+#EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://live.fanmingming.cn/tv/八大综艺.png" group-title="✴️今日台湾✴️",八大综艺
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSuKuH97Ylxzmr6yFIsCTgI/ts
+#EXTINF:-1 tvg-name="八大綜合" tvg-logo="https://live.fanmingming.cn/tv/八大綜合.png" group-title="✴️今日台湾✴️",八大綜合
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfK9K1VBNgHFd4LUNtgSnQg/ts
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://live.fanmingming.cn/tv/八大戏剧.png" group-title="✴️今日台湾✴️",八大戏剧
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRshE5kaOnAbjg1N30-vbfo/ts
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://live.fanmingming.cn/tv/八大第一.png" group-title="✴️今日台湾✴️",八大第一
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMffWXcOtms0uUfc901VoGuE/ts
+#EXTINF:-1 tvg-name="八大娱乐" tvg-logo="https://live.fanmingming.cn/tv/八大娱乐.png" group-title="✴️今日台湾✴️",八大娱乐
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeyK_xjK4fChVE97TUzgQUw/ts
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png" group-title="✴️今日台湾✴️",纬来体育
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWFMDJnCGLy7NfZwLtfW0eQ/ts
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://live.fanmingming.cn/tv/纬来日本.png" group-title="✴️今日台湾✴️",纬来日本
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMY5gVUsdACKY1WWxYKF9gZA/ts
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://live.fanmingming.cn/tv/纬来育乐.png" group-title="✴️今日台湾✴️",纬来育乐
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUJiNAzbE7K5KiPPEaR-O0U/ts
+#EXTINF:-1 tvg-name="纬来综合" tvg-logo="https://live.fanmingming.cn/tv/纬来综合.png" group-title="✴️今日台湾✴️",纬来综合
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU1mSh8g6p87vK6u_gvE17I/ts
+#EXTINF:-1 tvg-name="纬来戏剧" tvg-logo="https://live.fanmingming.cn/tv/纬来戏剧.png" group-title="✴️今日台湾✴️",纬来戏剧
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUeXqUqB4i5Mym0ZoW41rAM/ts
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://live.fanmingming.cn/tv/纬来电影.png" group-title="✴️今日台湾✴️",纬来电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU5TPdkW8iT_YTIGfTwRdLM/ts
+#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://live.fanmingming.cn/tv/爱尔达体育1台.png" group-title="✴️今日台湾✴️",爱尔达体育1台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcxgQ8kmos7T92FXpqlo9Lo/ts
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://live.fanmingming.cn/tv/爱尔达体育2台.png" group-title="✴️今日台湾✴️",爱尔达体育2台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaRQKgWpbHfhXJWhlH7Aq8Q/ts
+#EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="https://live.fanmingming.cn/tv/爱尔达体育3.png" group-title="✴️今日台湾✴️",爱尔达体育3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdtiXcWYRcAKsIji_Mp1jfY/ts
+#EXTINF:-1 tvg-name="爱尔达综合" tvg-logo="https://live.fanmingming.cn/tv/爱尔达综合.png" group-title="✴️今日台湾✴️",爱尔达综合
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcM5oocECoN6CCtJNUq4Odo/ts
+#EXTINF:-1 tvg-name="爱尔达影剧" tvg-logo="https://live.fanmingming.cn/tv/爱尔达影剧.png" group-title="✴️今日台湾✴️",爱尔达影剧
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVxJARrsI8gtMOqCHdpRjOg/ts
+#EXTINF:-1 tvg-name="ELEVEN体育 1" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育 1.png" group-title="✴️今日台湾✴️",ELEVEN体育 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTpolgMrEwEUD0zKW9HROrw/ts
+#EXTINF:-1 tvg-name="ELEVEN体育 2" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育 2.png" group-title="✴️今日台湾✴️",ELEVEN体育 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYBPs3LD0INi6il4Dxbn1T4/ts
+#EXTINF:-1 tvg-name="JET综合" tvg-logo="https://live.fanmingming.cn/tv/JET综合.png" group-title="✴️今日台湾✴️",JET综合
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMab555RfbdS0pfAaj1MIKmc/ts
+#EXTINF:-1 tvg-name="亚洲美食" tvg-logo="https://live.fanmingming.cn/tv/亚洲美食.png" group-title="✴️今日台湾✴️",亚洲美食
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUxZ5nVCDxfldVK5OKTdFYQ/ts
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.cn/tv/动物星球.png" group-title="✴️今日台湾✴️",动物星球
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQB4wEFNjMz1jerbhJ0klWw/ts
+#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://live.fanmingming.cn/tv/亚洲旅游.png" group-title="✴️今日台湾✴️",亚洲旅游
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMR5RcFAdGXdJr_qWOY-Un-4/ts
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://live.fanmingming.cn/tv/BBC Lifestyle.png" group-title="✴️今日台湾✴️",BBC Lifestyle
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQwo3bfa9PDDZZPrVhknS7A/ts
+#EXTINF:-1 tvg-name="TW 探索亚洲" tvg-logo="https://live.fanmingming.cn/tv/TW 探索亚洲.png" group-title="✴️今日台湾✴️",TW 探索亚洲
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc8nMf4-SRpK3pOszSI_jr4/ts
+#EXTINF:-1 tvg-name="TW 探索科学" tvg-logo="https://live.fanmingming.cn/tv/TW 探索科学.png" group-title="✴️今日台湾✴️",TW 探索科学
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU_kUKCkch9XoWzwaKJymVM/ts
+#EXTINF:-1 tvg-name="TW 探索频道" tvg-logo="https://live.fanmingming.cn/tv/TW 探索频道.png" group-title="✴️今日台湾✴️",TW 探索频道
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeJQdBus0kMYJ_lAASas-cQ/ts
+#EXTINF:-1 tvg-name="TW Discovery DMAX" tvg-logo="https://live.fanmingming.cn/tv/TW Discovery DMAX.png" group-title="✴️今日台湾✴️",TW Discovery DMAX
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbYgN8DQcjFCTSe40i24AKc/ts
+#EXTINF:-1 tvg-name="TW 美食星球" tvg-logo="https://live.fanmingming.cn/tv/TW 美食星球.png" group-title="✴️今日台湾✴️",TW 美食星球
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbWkCMOSlYVS3X0VESrB7jQ/ts
+#EXTINF:-1 tvg-name="TW 历史频道 1" tvg-logo="https://live.fanmingming.cn/tv/TW 历史频道 1.png" group-title="✴️今日台湾✴️",TW 历史频道 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMa3YItOsR7JXM-HJ8AZhUbQ/ts
+#EXTINF:-1 tvg-name="TW Love Nature" tvg-logo="https://live.fanmingming.cn/tv/TW Love Nature.png" group-title="✴️今日台湾✴️",TW Love Nature
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQaM5X5VW7XnOPwAsrQGsIQ/ts
+#EXTINF:-1 tvg-name="TW BBC Earth" tvg-logo="https://live.fanmingming.cn/tv/TW BBC Earth.png" group-title="✴️今日台湾✴️",TW BBC Earth
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdvexn_3W9SLE4ZrctriB_Y/ts
+#EXTINF:-1 tvg-name="TW Discovery EVE" tvg-logo="https://live.fanmingming.cn/tv/TW Discovery EVE.png" group-title="✴️今日台湾✴️",TW Discovery EVE
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdiS9yCB63xXAF937FWXVyc/ts
+#EXTINF:-1 tvg-name="TW HGTV" tvg-logo="https://live.fanmingming.cn/tv/TW HGTV.png" group-title="✴️今日台湾✴️",TW HGTV
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYSyL5C0k5LgWkGs0D5WENc/ts
+#EXTINF:-1 tvg-name="TW 幸福居家" tvg-logo="https://live.fanmingming.cn/tv/TW 幸福居家.png" group-title="✴️今日台湾✴️",TW 幸福居家
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYn8ZdWRp4a2qgUUjxWS5RU/ts
+#EXTINF:-1 tvg-name="TW Boomerang" tvg-logo="https://live.fanmingming.cn/tv/TW Boomerang.png" group-title="✴️今日台湾✴️",TW Boomerang
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMalPrez1MLz-iM9q05MguBY/ts
+#EXTINF:-1 tvg-name="TW Animax卡通" tvg-logo="https://live.fanmingming.cn/tv/TW Animax卡通.png" group-title="✴️今日台湾✴️",TW Animax卡通
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbjY1IOHGQOQjOhSWaeKM/ts
+#EXTINF:-1 tvg-name="TW MOMO亲子" tvg-logo="https://live.fanmingming.cn/tv/TW MOMO亲子.png" group-title="✴️今日台湾✴️",TW MOMO亲子
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMX_ZgY4FNIwCgrfkjxer6k4/ts
+#EXTINF:-1 tvg-name="TW 尼克儿童" tvg-logo="https://live.fanmingming.cn/tv/TW 尼克儿童.png" group-title="✴️今日台湾✴️",TW 尼克儿童
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfCz7xc6_uCg3qzFY70p2C0/ts
+#EXTINF:-1 tvg-name="TW Nick Jr. 尼克幼儿" tvg-logo="https://live.fanmingming.cn/tv/TW Nick Jr. 尼克幼儿.png" group-title="✴️今日台湾✴️",TW Nick Jr. 尼克幼儿
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMX5xEHj7lbZiJX5SJWGSaRo/ts
+#EXTINF:-1 tvg-name="TW 东森幼幼" tvg-logo="https://live.fanmingming.cn/tv/TW 东森幼幼.png" group-title="✴️今日台湾✴️",TW 东森幼幼
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZnoBoCKrioPfTL7YNwNkE4/ts
+#EXTINF:-1 tvg-name="TW CARTOON卡通" tvg-logo="https://live.fanmingming.cn/tv/TW CARTOON卡通.png" group-title="✴️今日台湾✴️",TW CARTOON卡通
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMftebEj7Z0UsDZ7c8WhpMFc/ts
+#EXTINF:-1 tvg-name="TW 达芬奇" tvg-logo="https://live.fanmingming.cn/tv/TW 达芬奇.png" group-title="✴️今日台湾✴️",TW 达芬奇
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbTK5ecpx2QinekezJbClQk/ts
+#EXTINF:-1 tvg-name="TW i-Fun动漫" tvg-logo="https://live.fanmingming.cn/tv/TW i-Fun动漫.png" group-title="✴️今日台湾✴️",TW i-Fun动漫
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWcCiGzt-qAoCS70MqNEid4/ts
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="✴️今日新闻✴️",无线新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbJZ-yx1uW34gmsbEWMViLM/ts
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.cn/tv/TVB PLUS.png" group-title="✴️今日新闻✴️",TVB PLUS
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZYXuF4JF-G0vLGJ_-ignN0/ts
+#EXTINF:-1 tvg-name="Now 新闻台" tvg-logo="https://live.fanmingming.cn/tv/Now 新闻台.png" group-title="✴️今日新闻✴️",Now 新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVCgZM5q4ri_gdWTla-40ys/ts
+#EXTINF:-1 tvg-name="Now 财经台" tvg-logo="https://live.fanmingming.cn/tv/Now 财经台.png" group-title="✴️今日新闻✴️",Now 财经台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRahVwO1bSMnwQFaIoi9000/ts
+#EXTINF:-1 tvg-name="RTHK 31" tvg-logo="https://live.fanmingming.cn/tv/RTHK 31.png" group-title="✴️今日新闻✴️",RTHK 31
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYGk7g1yMsCsWHXSo3ulzpE/ts
+#EXTINF:-1 tvg-name="RTHK 32" tvg-logo="https://live.fanmingming.cn/tv/RTHK 32.png" group-title="✴️今日新闻✴️",RTHK 32
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaM54HwiRUdGc7W3xHy3epg/ts
+#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯台.png" group-title="✴️今日新闻✴️",凤凰资讯台
+http://61.163.58.168:2005/play/forward/5?tvid=MytvPhoenixInfo&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港台.png" group-title="✴️今日新闻✴️",凤凰香港台
+http://61.163.58.168:2005/play/forward/5?tvid=MytvPhoenixHK&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="✴️今日新闻✴️",中天新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRhyQ2UAM3pyNQQNhih1k/ts
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://live.fanmingming.cn/tv/东森新闻台.png" group-title="✴️今日新闻✴️",东森新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMV9UnjC2AV9iztcfqLfLsFU/ts
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻台.png" group-title="✴️今日新闻✴️",TVBS新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc1Nf_vU2X4IBCc3ET4u8nk/ts
+#EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="https://live.fanmingming.cn/tv/壹电视新闻台.png" group-title="✴️今日新闻✴️",壹电视新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMV-KnxkWMOj99fzQQnLfQ94/ts
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://live.fanmingming.cn/tv/三立新闻.png" group-title="✴️今日新闻✴️",三立新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfXyy_fJiONhObjwniphblk/ts
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png" group-title="✴️今日新闻✴️",民视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQoCWlVxmpdFL3hxm7YCrjA/ts
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="✴️今日新闻✴️",台视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ7AGla88ChwikROfehnEVg/ts
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻台.png" group-title="✴️今日新闻✴️",寰宇新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaKaGKOxgkCJLculaI7T8TQ/ts
+#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻台湾台.png" group-title="✴️今日新闻✴️",寰宇新闻台湾台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ0djhPQezkn1d3mvzVMf18/ts
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.cn/tv/年代新闻.png" group-title="✴️今日新闻✴️",年代新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSezPQso4bEU3RLFsh8ZnNg/ts
+#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://live.fanmingming.cn/tv/非凡新闻台.png" group-title="✴️今日新闻✴️",非凡新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRO7F6JluwNXJBh1Vjcto4k/ts
+#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://live.fanmingming.cn/tv/镜新闻.png" group-title="✴️今日新闻✴️",镜新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZx8PetG7rkWQ7JzdXxL3p0/ts
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.cn/tv/东森财经新闻.png" group-title="✴️今日新闻✴️",东森财经新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdJYXBWf0Nkh85PFFybkyTI/ts
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://live.fanmingming.cn/tv/寰宇财经.png" group-title="✴️今日新闻✴️",寰宇财经
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSjl0lOi-IIqh9qrsYenRP4/ts
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.cn/tv/东森超视.png" group-title="✴️今日新闻✴️",东森超视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc9QuFaha0xwUW58_XtYHag/ts
+#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://live.fanmingming.cn/tv/台视财经.png" group-title="✴️今日新闻✴️",台视财经
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdASYZ4OnVFoWyvQiBmPBmg/ts
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻.png" group-title="✴️今日新闻✴️",中视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeeZdFUcZfBpAtuEZ024x2s/ts
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="✴️今日新闻✴️",华视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSiAMdPC0PIzstY_eYtPqP4/ts
+#EXTINF:-1 tvg-name="三立INEWS" tvg-logo="https://live.fanmingming.cn/tv/三立INEWS.png" group-title="✴️今日新闻✴️",三立INEWS
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbhAO3rJTcmuw7ZCb_ZedG4/ts
+#EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.cn/tv/CCTV 1.png" group-title="✴️今日大陆✴️",CCTV 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQoXHeQzRU0QrGRAJpYiEkM/ts
+#EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://live.fanmingming.cn/tv/CCTV 2.png" group-title="✴️今日大陆✴️",CCTV 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVrNrCXkBeR_-UvQG8zovT8/ts
+#EXTINF:-1 tvg-name="CCTV 3" tvg-logo="https://live.fanmingming.cn/tv/CCTV 3.png" group-title="✴️今日大陆✴️",CCTV 3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUQYLu2j4TdDDP55U73nSJA/ts
+#EXTINF:-1 tvg-name="CCTV 4" tvg-logo="https://live.fanmingming.cn/tv/CCTV 4.png" group-title="✴️今日大陆✴️",CCTV 4
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfJ0Rt9s3lCrsC0dEtp5Ztw/ts
+#EXTINF:-1 tvg-name="CCTV 5" tvg-logo="https://live.fanmingming.cn/tv/CCTV 5.png" group-title="✴️今日大陆✴️",CCTV 5
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVwZzlY4igOX1Vg5uduhTTw/ts
+#EXTINF:-1 tvg-name="CCTV 6" tvg-logo="https://live.fanmingming.cn/tv/CCTV 6.png" group-title="✴️今日大陆✴️",CCTV 6
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQMeWJgcur2Q7IF6oPQ7IBA/ts
+#EXTINF:-1 tvg-name="CCTV 7" tvg-logo="https://live.fanmingming.cn/tv/CCTV 7.png" group-title="✴️今日大陆✴️",CCTV 7
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfJlsDe34-T0_fD6YnIlWx0/ts
+#EXTINF:-1 tvg-name="CCTV 8" tvg-logo="https://live.fanmingming.cn/tv/CCTV 8.png" group-title="✴️今日大陆✴️",CCTV 8
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU4JwL7-xvN8GtaTQm9Nc/ts
+#EXTINF:-1 tvg-name="CCTV 9" tvg-logo="https://live.fanmingming.cn/tv/CCTV 9.png" group-title="✴️今日大陆✴️",CCTV 9
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMS2BgMOpJeJZRIH_-0nrE2w/ts
+#EXTINF:-1 tvg-name="CCTV 10" tvg-logo="https://live.fanmingming.cn/tv/CCTV 10.png" group-title="✴️今日大陆✴️",CCTV 10
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXLtajMPglulLgadkGN9cBA/ts
+#EXTINF:-1 tvg-name="CCTV 11" tvg-logo="https://live.fanmingming.cn/tv/CCTV 11.png" group-title="✴️今日大陆✴️",CCTV 11
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRSfKichYS7IPQPnn1Uqg/ts
+#EXTINF:-1 tvg-name="CCTV 12" tvg-logo="https://live.fanmingming.cn/tv/CCTV 12.png" group-title="✴️今日大陆✴️",CCTV 12
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfoKZ6Pt2kqYYjaGkKO_mXs/ts
+#EXTINF:-1 tvg-name="CCTV 13" tvg-logo="https://live.fanmingming.cn/tv/CCTV 13.png" group-title="✴️今日大陆✴️",CCTV 13
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZCUo92GFEQWbFZ0jpg9QFo/ts
+#EXTINF:-1 tvg-name="CCTV 14" tvg-logo="https://live.fanmingming.cn/tv/CCTV 14.png" group-title="✴️今日大陆✴️",CCTV 14
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVmSYlVnBb2nnDNd-2SNZVA/ts
+#EXTINF:-1 tvg-name="CCTV 15" tvg-logo="https://live.fanmingming.cn/tv/CCTV 15.png" group-title="✴️今日大陆✴️",CCTV 15
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTXbD2fs1u0mDhDX6ZhG9lE/ts
+#EXTINF:-1 tvg-name="CCTV 16" tvg-logo="https://live.fanmingming.cn/tv/CCTV 16.png" group-title="✴️今日大陆✴️",CCTV 16
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdJs7E8W8UTOaLEw6SMkrqI/ts
+#EXTINF:-1 tvg-name="CCTV 17" tvg-logo="https://live.fanmingming.cn/tv/CCTV 17.png" group-title="✴️今日大陆✴️",CCTV 17
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdZYpaJli2JF88QmrvXWh04/ts
+#EXTINF:-1 tvg-name="CCTV 5 Plus" tvg-logo="https://live.fanmingming.cn/tv/CCTV 5 Plus.png" group-title="✴️今日大陆✴️",CCTV 5 Plus
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVwGo_TVmG7N7c5PUggQBTk/ts
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="✴️今日大陆✴️",北京卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZW_1YAdXJ7MeYVcC5IC32c/ts
+#EXTINF:-1 tvg-name="上海东方卫视" tvg-logo="https://live.fanmingming.cn/tv/上海东方卫视.png" group-title="✴️今日大陆✴️",上海东方卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUKYyEQ38FcDaZThhCaM5GY/ts
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="✴️今日大陆✴️",湖南卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTj5732KegPZvu2RjrGbZRI/ts
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="✴️今日大陆✴️",浙江卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMW4lxO4Ujj46SJ568dG1dcM/ts
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="✴️今日大陆✴️",江苏卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQFj_3w2yQROCRR52QjTO6k/ts
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="✴️今日大陆✴️",广东卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfXtmRvOkQ_KoLIm6ZT4wRE/ts
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="✴️今日大陆✴️",深圳卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVi7wT0e2w1KEZb7SONwB3c/ts
+#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://live.fanmingming.cn/tv/南方卫视.png" group-title="✴️今日大陆✴️",南方卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZetrRxDYfVFgbJAgt0A6vQ/ts
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="✴️今日大陆✴️",安徽卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQIcTl_1i0QLb6P5lTIXahs/ts
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="✴️今日大陆✴️",山东卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRBBVoTk9bhaKdhKFcGpvfY/ts
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="✴️今日大陆✴️",辽宁卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUuFJbgdl0Cmi58A3E0aDrU/ts
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="✴️今日大陆✴️",吉林卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWIuO7nEOOWnf523cyr2o6E/ts
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="✴️今日大陆✴️",黑龙江卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZsiHLEc13NuBe3UNL4wfgw/ts
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="✴️今日大陆✴️",江西卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXdXjen0zKsyVFIqlceenwo/ts
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="✴️今日大陆✴️",东南卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMf58jZLwC9utFeypTlFEXJA/ts
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="✴️今日大陆✴️",天津卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWJ1qBA0A5lnFkWv0uNjmd4/ts
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="✴️今日大陆✴️",湖北卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWGcdm8s-fBGrPmZ2LV6nMQ/ts
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="✴️今日大陆✴️",云南卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTea7Jne6bfVEFsLbOc7j2Y/ts
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="✴️今日大陆✴️",重庆卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRfagiHF1kEkTZa97physkc/ts
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="✴️今日大陆✴️",河南卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMejFZn82OIYQF1ye231FPH4/ts
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="✴️今日大陆✴️",广西卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXOuI_gwOdzwNrcJqCrNpMc/ts
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="✴️今日大陆✴️",四川卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUILbZAsrTmPUsldRL4OFCE/ts
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="✴️今日大陆✴️",山西卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfBpm0VRDMHXXyLFvesLVJ0/ts
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="✴️今日大陆✴️",河北卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWxVNyX6DO_gpWencyr_fJI/ts
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="✴️今日大陆✴️",贵州卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMflZxl2STTcSAflGDTYtkOw/ts
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="✴️今日大陆✴️",海南卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUiSEE-r-cMuzTz1agiFKHs/ts
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.cn/tv/海峡卫视.png" group-title="✴️今日大陆✴️",海峡卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaOuJcePhY5FD6OYutlrEiA/ts
+#EXTINF:-1 tvg-name="CHC 高清电影" tvg-logo="https://live.fanmingming.cn/tv/CHC 高清电影.png" group-title="✴️今日大陆✴️",CHC 高清电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXTo-DQo-SwMiPeMQr6TZ4E/ts
+#EXTINF:-1 tvg-name="CHC 家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC 家庭影院.png" group-title="✴️今日大陆✴️",CHC 家庭影院
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVFjua_SQYH3ZA5lxy_rpgM/ts
+#EXTINF:-1 tvg-name="CHC 动作影院" tvg-logo="https://live.fanmingming.cn/tv/CHC 动作影院.png" group-title="✴️今日大陆✴️",CHC 动作影院
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVmHSdc0VFGieD_eoirxEJI/ts
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="✴️今日大陆✴️",广东体育
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZ6yyDLFSles4EmjoBpADUU/ts
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="✴️今日大陆✴️",五星体育
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbOwROWbBeHORTZ8oqoU3kM/ts
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="✴️今日大陆✴️",广东珠江
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRTy5lvI87jHbyqTPK2p_zk/ts
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="✴️今日大陆✴️",五星体育
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeEdEd4NH3kGzodZ85ZteXw/ts
+#EXTINF:-1 tvg-name="Now Sports 精选" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 精选.png" group-title="✴️今日体育✴️",Now Sports 精选
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWoza8elgETieC9SGxlVHYA/ts
+#EXTINF:-1 tvg-name="Now Sports 1" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 1.png" group-title="✴️今日体育✴️",Now Sports 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcCOLF6Wx_l-Lcr4GkVYc/ts
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 2.png" group-title="✴️今日体育✴️",Now Sports 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQrchveTxDggiOHQvYPdrzk/ts
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 3.png" group-title="✴️今日体育✴️",Now Sports 3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTiGUllgYGLCqj4SlsTVCt0/ts
+#EXTINF:-1 tvg-name="Now Sports 4" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 4.png" group-title="✴️今日体育✴️",Now Sports 4
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQK6M977mDFGLWWdfsodFbo/ts
+#EXTINF:-1 tvg-name="Now Sports 5" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 5.png" group-title="✴️今日体育✴️",Now Sports 5
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMY9ZMe4i8TzMsHOKOBlrJLM/ts
+#EXTINF:-1 tvg-name="Now Sports 6" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 6.png" group-title="✴️今日体育✴️",Now Sports 6
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMd_aO7pDeHwB7Ax2AuuKIdA/ts
+#EXTINF:-1 tvg-name="Now Sports 7" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 7.png" group-title="✴️今日体育✴️",Now Sports 7
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMR5Cu4kKIXLPcVZ6AmIJMfY/ts
+#EXTINF:-1 tvg-name="Now Sports 英超粤" tvg-logo="https://live.fanmingming.cn/tv/Now Sports 英超粤.png" group-title="✴️今日体育✴️",Now Sports 英超粤
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQm_5UQDloq45eOG0o57BK4/ts
+#EXTINF:-1 tvg-name="Now赛马台" tvg-logo="https://live.fanmingming.cn/tv/Now赛马台.png" group-title="✴️今日体育✴️",Now赛马台
+p3p://173.208.176.178:31809/6318b7730000b372fb7ca7e170c66e54
+#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://live.fanmingming.cn/tv/爱尔达体育1台.png" group-title="✴️今日体育✴️",爱尔达体育1台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcxgQ8kmos7T92FXpqlo9Lo/ts
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://live.fanmingming.cn/tv/爱尔达体育2台.png" group-title="✴️今日体育✴️",爱尔达体育2台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaRQKgWpbHfhXJWhlH7Aq8Q/ts
+#EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="https://live.fanmingming.cn/tv/爱尔达体育3.png" group-title="✴️今日体育✴️",爱尔达体育3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdtiXcWYRcAKsIji_Mp1jfY/ts
+#EXTINF:-1 tvg-name="ELEVEN体育 1" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育 1.png" group-title="✴️今日体育✴️",ELEVEN体育 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTpolgMrEwEUD0zKW9HROrw/ts
+#EXTINF:-1 tvg-name="ELEVEN体育 2" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育 2.png" group-title="✴️今日体育✴️",ELEVEN体育 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYBPs3LD0INi6il4Dxbn1T4/ts
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png" group-title="✴️今日体育✴️",纬来体育
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWFMDJnCGLy7NfZwLtfW0eQ/ts
+#EXTINF:-1 tvg-name="MY ASSP 1" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 1.png" group-title="✴️今日体育✴️",MY ASSP 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQy1k44s0Gnqi4hiQ6st9_Y/ts
+#EXTINF:-1 tvg-name="MY ASSP 2" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 2.png" group-title="✴️今日体育✴️",MY ASSP 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVk2UAJEehAyYY2rrPZA7_c/ts
+#EXTINF:-1 tvg-name="MY ASSP 3" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 3.png" group-title="✴️今日体育✴️",MY ASSP 3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdAdC5rTh5enHzjli0-gmx8/ts
+#EXTINF:-1 tvg-name="MY ASSP 4" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 4.png" group-title="✴️今日体育✴️",MY ASSP 4
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZkHAcc591P-WNICKmwX9PY/ts
+#EXTINF:-1 tvg-name="MY ASSP 5" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 5.png" group-title="✴️今日体育✴️",MY ASSP 5
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcIROL1rJUJ75fAGXfhMx6k/ts
+#EXTINF:-1 tvg-name="博斯运动 1" tvg-logo="https://live.fanmingming.cn/tv/博斯运动 1.png" group-title="✴️今日体育✴️",博斯运动 1
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
+#EXTINF:-1 tvg-name="博斯运动 2" tvg-logo="https://live.fanmingming.cn/tv/博斯运动 2.png" group-title="✴️今日体育✴️",博斯运动 2
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
+#EXTINF:-1 tvg-name="博斯高球2 HD" tvg-logo="https://live.fanmingming.cn/tv/博斯高球2 HD.png" group-title="✴️今日体育✴️",博斯高球2 HD
+https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
+#EXTINF:-1 tvg-name="博斯网球 HD" tvg-logo="https://live.fanmingming.cn/tv/博斯网球 HD.png" group-title="✴️今日体育✴️",博斯网球 HD
+https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="✴️今日体育✴️",广东体育
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZ6yyDLFSles4EmjoBpADUU/ts
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="✴️今日体育✴️",五星体育
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbOwROWbBeHORTZ8oqoU3kM/ts
+#EXTINF:-1 tvg-name="Animax卡通" tvg-logo="https://live.fanmingming.cn/tv/Animax卡通.png" group-title="✴️今日儿童✴️",Animax卡通
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbjY1IOHGCnQOQjOhSWaeKM/ts
+#EXTINF:-1 tvg-name="MOMO亲子" tvg-logo="https://live.fanmingming.cn/tv/MOMO亲子.png" group-title="✴️今日儿童✴️",MOMO亲子
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMX_ZgY4FNIwCgrfkjxer6k4/ts
+#EXTINF:-1 tvg-name="尼克儿童" tvg-logo="https://live.fanmingming.cn/tv/尼克儿童.png" group-title="✴️今日儿童✴️",尼克儿童
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfCz7xc6_uCg3qzFY70p2C0/ts
+#EXTINF:-1 tvg-name="Nick Jr. 尼克幼儿" tvg-logo="https://live.fanmingming.cn/tv/Nick Jr. 尼克幼儿.png" group-title="✴️今日儿童✴️",Nick Jr. 尼克幼儿
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMX5xEHj7lbZiJX5SJWGSaRo/ts
+#EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://live.fanmingming.cn/tv/东森幼幼.png" group-title="✴️今日儿童✴️",东森幼幼
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZnoBoCKrioPfTL7YNwNkE4/ts
+#EXTINF:-1 tvg-name="CARTOON卡通" tvg-logo="https://live.fanmingming.cn/tv/CARTOON卡通.png" group-title="✴️今日儿童✴️",CARTOON卡通
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMftebEj7Z0UsDZ7c8WhpMFc/ts
+#EXTINF:-1 tvg-name="达芬奇" tvg-logo="https://live.fanmingming.cn/tv/达芬奇.png" group-title="✴️今日儿童✴️",达芬奇
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbTK5ecpx2QinekezJbClQk/ts
+#EXTINF:-1 tvg-name="i-Fun动漫" tvg-logo="https://live.fanmingming.cn/tv/i-Fun动漫.png" group-title="✴️今日儿童✴️",i-Fun动漫
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWcCiGzt-qAoCS70MqNEid4/ts
+#EXTINF:-1 tvg-name="TVB 千禧经典台" tvg-logo="https://live.fanmingming.cn/tv/TVB 千禧经典台.png" group-title="✴️今日电影✴️",TVB 千禧经典台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbPPvCgG_8Lqgz8yqCjzPCI/ts
+#EXTINF:-1 tvg-name="TVB 娱乐新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVB 娱乐新闻台.png" group-title="✴️今日电影✴️",TVB 娱乐新闻台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRnWaqX0lqdvMCdL_BEyx_Y/ts
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.cn/tv/美亚电影台.png" group-title="✴️今日电影✴️",美亚电影台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMS-OGsHt6GMlhv9aRB78A1s/ts
+#EXTINF:-1 tvg-name="TVB 黄金华剧台" tvg-logo="https://live.fanmingming.cn/tv/TVB 黄金华剧台.png" group-title="✴️今日电影✴️",TVB 黄金华剧台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSx5UbrsqAqVefBfS2migxk/ts
+#EXTINF:-1 tvg-name="TVB 华语剧台" tvg-logo="https://live.fanmingming.cn/tv/TVB 华语剧台.png" group-title="✴️今日电影✴️",TVB 华语剧台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfZDPo24x0yUwTHnbpvaA7w/ts
+#EXTINF:-1 tvg-name="TVB 亚洲剧台" tvg-logo="https://live.fanmingming.cn/tv/TVB 亚洲剧台.png" group-title="✴️今日电影✴️",TVB 亚洲剧台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbirma-I2j9ncZvRrzySNjU/ts
+#EXTINF:-1 tvg-name="TVB 功夫台" tvg-logo="https://live.fanmingming.cn/tv/TVB 功夫台.png" group-title="✴️今日电影✴️",TVB 功夫台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQHk3QyQrKGOEbIdWapGPo8/ts
+#EXTINF:-1 tvg-name="TVB 粤语片台" tvg-logo="https://live.fanmingming.cn/tv/TVB 粤语片台.png" group-title="✴️今日电影✴️",TVB 粤语片台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeSDyw6uP1L5wAsDNe5WNZ0/ts
+#EXTINF:-1 tvg-name="TVB 戏曲台" tvg-logo="https://live.fanmingming.cn/tv/TVB 戏曲台.png" group-title="✴️今日电影✴️",TVB 戏曲台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc64dgWCyAtHHd2omqkg9cg/ts
+#EXTINF:-1 tvg-name="TVB 星河(粤)" tvg-logo="https://live.fanmingming.cn/tv/TVB 星河(粤).png" group-title="✴️今日电影✴️",TVB 星河(粤)
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRQlJonB_00kN2mJV7tfDK0/ts
+#EXTINF:-1 tvg-name="TVB 星河(国)" tvg-logo="https://live.fanmingming.cn/tv/TVB 星河(国).png" group-title="✴️今日电影✴️",TVB 星河(国)
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQjLBsf3EKmRG4q-9ABks8U/ts
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png" group-title="✴️今日电影✴️",东森电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeyA6XYa4ouz4vd_UK4BPIs/ts
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://live.fanmingming.cn/tv/东森戏剧.png" group-title="✴️今日电影✴️",东森戏剧
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMf6rym0VME4rVFFvrhRqr0M/ts
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://live.fanmingming.cn/tv/东森洋片.png" group-title="✴️今日电影✴️",东森洋片
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ7RhdVKbO8PkjlYaHwgHEw/ts
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://live.fanmingming.cn/tv/民视影剧.png" group-title="✴️今日电影✴️",民视影剧
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfv_AXZcjRu__ZcS22mf9MA/ts
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.cn/tv/美亚电影.png" group-title="✴️今日电影✴️",美亚电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeDQ3UUzBXRce7Q4sPxFA-I/ts
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png" group-title="✴️今日电影✴️",HBO
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRwjnfw7YEqBk1VrzRpBV8c/ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://live.fanmingming.cn/tv/HBO Signature.png" group-title="✴️今日电影✴️",HBO Signature
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQ8iMqbY_LVqcdNqT0MWMiw/ts
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.cn/tv/HBO Family.png" group-title="✴️今日电影✴️",HBO Family
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeblAgIQFm7aVgKMvA9H8nQ/ts
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://live.fanmingming.cn/tv/HBO Hits.png" group-title="✴️今日电影✴️",HBO Hits
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVPZrZ3va9OpPaSZACGA1Ic/ts
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://live.fanmingming.cn/tv/Cinemax.png" group-title="✴️今日电影✴️",Cinemax
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbsWuMefL7WAHMF6iqZsQ30/ts
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.cn/tv/AXN.png" group-title="✴️今日电影✴️",AXN
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQn4zYrc_W-3MobTXJRk-GU/ts
+#EXTINF:-1 tvg-name="CI 罪案侦查频道" tvg-logo="https://live.fanmingming.cn/tv/CI 罪案侦查频道.png" group-title="✴️今日电影✴️",CI 罪案侦查频道
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRGgIWuZJt_HQrnZBCprcXM/ts
+#EXTINF:-1 tvg-name="CATCHPLAY电影台" tvg-logo="https://live.fanmingming.cn/tv/CATCHPLAY电影台.png" group-title="✴️今日电影✴️",CATCHPLAY电影台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbOcoETIkG7UZOZEJQrKD_s/ts
+#EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://live.fanmingming.cn/tv/影迷数位电影台.png" group-title="✴️今日电影✴️",影迷数位电影台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbNqCGVU72LuoX8Zt9aBojg/ts
+#EXTINF:-1 tvg-name="影迷数位纪实" tvg-logo="https://live.fanmingming.cn/tv/影迷数位纪实.png" group-title="✴️今日电影✴️",影迷数位纪实
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMet3HhBOSG8Oq3kw6EqNUV4/ts
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://live.fanmingming.cn/tv/龙祥电影.png" group-title="✴️今日电影✴️",龙祥电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTzinYC8qHYi9P_eHWGb6Jo/ts
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://live.fanmingming.cn/tv/好莱坞电影.png" group-title="✴️今日电影✴️",好莱坞电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfhADbv4pvEfKUfXebFqADc/ts
+#EXTINF:-1 tvg-name="华纳电视 warner" tvg-logo="https://live.fanmingming.cn/tv/华纳电视 warner.png" group-title="✴️今日电影✴️",华纳电视 warner
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdTFZYm3H1FwnEAOoi_zrpg/ts
+#EXTINF:-1 tvg-name="My Cinema Europe" tvg-logo="https://live.fanmingming.cn/tv/My Cinema Europe.png" group-title="✴️今日电影✴️",My Cinema Europe
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRvr4zr1Y9vDC0P7TWAKj3w/ts
+#EXTINF:-1 tvg-name="Cinema World" tvg-logo="https://live.fanmingming.cn/tv/Cinema World.png" group-title="✴️今日电影✴️",Cinema World
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeVlV-CrH_oKQpJrxjiv3Ro/ts
+#EXTINF:-1 tvg-name="AMC最爱电影" tvg-logo="https://live.fanmingming.cn/tv/AMC最爱电影.png" group-title="✴️今日电影✴️",AMC最爱电影
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdjkH-y9ULk0-jp053eervk/ts
+#EXTINF:-1 tvg-name="Astro 天映频道" tvg-logo="https://live.fanmingming.cn/tv/Astro 天映频道.png" group-title="✴️今日电影✴️",Astro 天映频道
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbMEgpOHq3CyNPSmXHo_elw/ts
+#EXTINF:-1 tvg-name="Astro 天映频道(粤)" tvg-logo="https://live.fanmingming.cn/tv/Astro 天映频道(粤).png" group-title="✴️今日电影✴️",Astro 天映频道(粤)
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMULTEiBGWJmGf3qr1nwOgRY/ts
+#EXTINF:-1 tvg-name="Astro TVB 经典" tvg-logo="https://live.fanmingming.cn/tv/Astro TVB 经典.png" group-title="✴️今日电影✴️",Astro TVB 经典
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdsvOGbl0MgpdssnH9RxvFc/ts
+#EXTINF:-1 tvg-name="Astro 天映经典 CCM" tvg-logo="https://live.fanmingming.cn/tv/Astro 天映经典 CCM.png" group-title="✴️今日电影✴️",Astro 天映经典 CCM
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdEcPIGxot-Ky-Y2-Ind15U/ts
+#EXTINF:-1 tvg-name="天映频道(印尼）" tvg-logo="https://live.fanmingming.cn/tv/天映频道(印尼）.png" group-title="✴️今日电影✴️",天映频道(印尼）
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMS5h6Is10vESAV-LekzPIog/ts
+#EXTINF:-1 tvg-name="MY BOO" tvg-logo="https://live.fanmingming.cn/tv/MY BOO.png" group-title="✴️今日电影✴️",MY BOO
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUabMqFyGJ_mgvJpvSkoeqc/ts
+#EXTINF:-1 tvg-name="Astro 华丽台" tvg-logo="https://live.fanmingming.cn/tv/Astro 华丽台.png" group-title="✴️今日马来✴️",Astro 华丽台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWrb7urIcP3lz3jj4SPybyg/ts
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://live.fanmingming.cn/tv/Astro AEC.png" group-title="✴️今日马来✴️",Astro AEC
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVqrwgOQwrZjdjJzouJPJdA/ts
+#EXTINF:-1 tvg-name="Astro 欢喜台" tvg-logo="https://live.fanmingming.cn/tv/Astro 欢喜台.png" group-title="✴️今日马来✴️",Astro 欢喜台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQuSDtJXNrM1gDWVLXfh95I/ts
+#EXTINF:-1 tvg-name="Astro 爱奇艺" tvg-logo="https://live.fanmingming.cn/tv/Astro 爱奇艺.png" group-title="✴️今日马来✴️",Astro 爱奇艺
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXQG8oANoeMtwb1fsuCmQHM/ts
+#EXTINF:-1 tvg-name="TVB XINGHE（国语）" tvg-logo="https://live.fanmingming.cn/tv/TVB XINGHE（国语）.png" group-title="✴️今日马来✴️",TVB XINGHE（国语）
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeXy08eBNNZ5k9kEdp3Jjkw/ts
+#EXTINF:-1 tvg-name="TVB XINGHE（粤语）" tvg-logo="https://live.fanmingming.cn/tv/TVB XINGHE（粤语）.png" group-title="✴️今日马来✴️",TVB XINGHE（粤语）
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcid05JbgJD9aOHK4GCzb3A/ts
+#EXTINF:-1 tvg-name="Astro 天映频道" tvg-logo="https://live.fanmingming.cn/tv/Astro 天映频道.png" group-title="✴️今日马来✴️",Astro 天映频道
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbMEgpOHq3CyNPSmXHo_elw/ts
+#EXTINF:-1 tvg-name="Astro 天映频道(粤)" tvg-logo="https://live.fanmingming.cn/tv/Astro 天映频道(粤).png" group-title="✴️今日马来✴️",Astro 天映频道(粤)
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMULTEiBGWJmGf3qr1nwOgRY/ts
+#EXTINF:-1 tvg-name="Astro TVB 经典" tvg-logo="https://live.fanmingming.cn/tv/Astro TVB 经典.png" group-title="✴️今日马来✴️",Astro TVB 经典
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdsvOGbl0MgpdssnH9RxvFc/ts
+#EXTINF:-1 tvg-name="Astro 天映经典 CCM" tvg-logo="https://live.fanmingming.cn/tv/Astro 天映经典 CCM.png" group-title="✴️今日马来✴️",Astro 天映经典 CCM
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdEcPIGxot-Ky-Y2-Ind15U/ts
+#EXTINF:-1 tvg-name="天映频道(印尼）" tvg-logo="https://live.fanmingming.cn/tv/天映频道(印尼）.png" group-title="✴️今日马来✴️",天映频道(印尼）
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMS5h6Is10vESAV-LekzPIog/ts
+#EXTINF:-1 tvg-name="MY BOO" tvg-logo="https://live.fanmingming.cn/tv/MY BOO.png" group-title="✴️今日马来✴️",MY BOO
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUabMqFyGJ_mgvJpvSkoeqc/ts
+#EXTINF:-1 tvg-name="MY ONE HD" tvg-logo="https://live.fanmingming.cn/tv/MY ONE HD.png" group-title="✴️今日马来✴️",MY ONE HD
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYXbH-8KprLY4Efi5C3aOV0/ts
+#EXTINF:-1 tvg-name="MY ASSP 1" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 1.png" group-title="✴️今日马来✴️",MY ASSP 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQy1k44s0Gnqi4hiQ6st9_Y/ts
+#EXTINF:-1 tvg-name="MY ASSP 2" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 2.png" group-title="✴️今日马来✴️",MY ASSP 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVk2UAJEehAyYY2rrPZA7_c/ts
+#EXTINF:-1 tvg-name="MY ASSP 3" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 3.png" group-title="✴️今日马来✴️",MY ASSP 3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdAdC5rTh5enHzjli0-gmx8/ts
+#EXTINF:-1 tvg-name="MY ASSP 4" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 4.png" group-title="✴️今日马来✴️",MY ASSP 4
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZkHAcc591P-WNICKmwX9PY/ts
+#EXTINF:-1 tvg-name="MY ASSP 5" tvg-logo="https://live.fanmingming.cn/tv/MY ASSP 5.png" group-title="✴️今日马来✴️",MY ASSP 5
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcIROL1rJUJ75fAGXfhMx6k/ts
+#EXTINF:-1 tvg-name="MY RUGBY PASS" tvg-logo="https://live.fanmingming.cn/tv/MY RUGBY PASS.png" group-title="✴️今日马来✴️",MY RUGBY PASS
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRW9fxKsXIqxWG3njtU9HME/ts
+#EXTINF:-1 tvg-name="ASTRO Arena" tvg-logo="https://live.fanmingming.cn/tv/ASTRO Arena.png" group-title="✴️今日马来✴️",ASTRO Arena
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbFvPGaFOIZjuzqAvsO22yk/ts
+#EXTINF:-1 tvg-name="MY ASTRO CIRCKET" tvg-logo="https://live.fanmingming.cn/tv/MY ASTRO CIRCKET.png" group-title="✴️今日马来✴️",MY ASTRO CIRCKET
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVJCJMqPZyX5m6s_1dyobro/ts
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://live.fanmingming.cn/tv/Channel 5.png" group-title="✴️今日马来✴️",Channel 5
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUmxjn-FcqAdyAw6nLvY034/ts
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://live.fanmingming.cn/tv/Channel 8.png" group-title="✴️今日马来✴️",Channel 8
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMe7pto5bZ_nh8MHiYJUY8vg/ts
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://live.fanmingming.cn/tv/Channel U.png" group-title="✴️今日马来✴️",Channel U
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQpDNl_j-2ON-q5fvwZAAHY/ts
+#EXTINF:-1 tvg-name="Channel CNA" tvg-logo="https://live.fanmingming.cn/tv/Channel CNA.png" group-title="✴️今日马来✴️",Channel CNA
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeNP8oesVYDbiwIK6cAhjpQ/ts
+#EXTINF:-1 tvg-name="Hub VV Drama 娱家" tvg-logo="https://live.fanmingming.cn/tv/Hub VV Drama 娱家.png" group-title="✴️今日马来✴️",Hub VV Drama 娱家
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVS877GaAJ8sX2hj5-3qq-o/ts
+#EXTINF:-1 tvg-name="Hub ECity 都会台" tvg-logo="https://live.fanmingming.cn/tv/Hub ECity 都会台.png" group-title="✴️今日马来✴️",Hub ECity 都会台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaX6Gm30ESu-FpfcqZyatVs/ts
+#EXTINF:-1 tvg-name="TVB XingHe 星河" tvg-logo="https://live.fanmingming.cn/tv/TVB XingHe 星河.png" group-title="✴️今日马来✴️",TVB XingHe 星河
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTWN8fK7a6s74EuQ-POUja4/ts
+#EXTINF:-1 tvg-name="TVB 翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB 翡翠台.png" group-title="✴️今日马来✴️",TVB 翡翠台
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbsH5AWRqw0CUExTUr7lInw/ts
+#EXTINF:-1 tvg-name="天映频道 Celestial Movies" tvg-logo="https://live.fanmingming.cn/tv/天映频道 Celestial Movies.png" group-title="✴️今日马来✴️",天映频道 Celestial Movies
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeGn4iMGxuYvPUGKRhTn4fM/ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://live.fanmingming.cn/tv/HBO Signature.png" group-title="✴️今日马来✴️",HBO Signature
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdr0E1ZgROMbQWmFmRXWP_A/ts
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.cn/tv/HBO Family.png" group-title="✴️今日马来✴️",HBO Family
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfYYeymebBBI-lz7rahyHyo/ts
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://live.fanmingming.cn/tv/HBO Hits.png" group-title="✴️今日马来✴️",HBO Hits
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMY9Gxd_URzRE6t4UMcUP4gs/ts
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://live.fanmingming.cn/tv/Cinemax.png" group-title="✴️今日马来✴️",Cinemax
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUJHSw-l-GluCjN8UzYWz_s/ts
+#EXTINF:-1 tvg-name="Hub Sports 1" tvg-logo="https://live.fanmingming.cn/tv/Hub Sports 1.png" group-title="✴️今日马来✴️",Hub Sports 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXeI7pBLi7yKi0-5HuL4nlM/ts
+#EXTINF:-1 tvg-name="Hub Sports 2" tvg-logo="https://live.fanmingming.cn/tv/Hub Sports 2.png" group-title="✴️今日马来✴️",Hub Sports 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdmxqzaKt_sxICuPxJhevps/ts
+#EXTINF:-1 tvg-name="Hub Sports 3" tvg-logo="https://live.fanmingming.cn/tv/Hub Sports 3.png" group-title="✴️今日马来✴️",Hub Sports 3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfbrL6AJ_Gyb7YFo9m6K3gY/ts
+#EXTINF:-1 tvg-name="Hub Sports 4" tvg-logo="https://live.fanmingming.cn/tv/Hub Sports 4.png" group-title="✴️今日马来✴️",Hub Sports 4
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUyUEwDhEtGbG8oetrqAnJM/ts
+#EXTINF:-1 tvg-name="Hub Sports 5" tvg-logo="https://live.fanmingming.cn/tv/Hub Sports 5.png" group-title="✴️今日马来✴️",Hub Sports 5
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYwVNXQw4tmAlyFEh79wz-U/ts
+#EXTINF:-1 tvg-name="HubPremier 1" tvg-logo="https://live.fanmingming.cn/tv/HubPremier 1.png" group-title="✴️今日马来✴️",HubPremier 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUfwnzP7Bj0VUaCPT9B5UAY/ts
+#EXTINF:-1 tvg-name="HubPremier 2" tvg-logo="https://live.fanmingming.cn/tv/HubPremier 2.png" group-title="✴️今日马来✴️",HubPremier 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMReto8LDIHyMHIirzXUb-ys/ts
+#EXTINF:-1 tvg-name="HubPremier 3" tvg-logo="https://live.fanmingming.cn/tv/HubPremier 3.png" group-title="✴️今日马来✴️",HubPremier 3
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMY9Abq3XfWwesLmajj3pMNQ/ts
+#EXTINF:-1 tvg-name="HubPremier 4" tvg-logo="https://live.fanmingming.cn/tv/HubPremier 4.png" group-title="✴️今日马来✴️",HubPremier 4
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMb1rgD9lpAf536DQhOOGH8w/ts
+#EXTINF:-1 tvg-name="HubPremier 5" tvg-logo="https://live.fanmingming.cn/tv/HubPremier 5.png" group-title="✴️今日马来✴️",HubPremier 5
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdPKQyNYBrULdTaDXjB65ZI/ts
+#EXTINF:-1 tvg-name="HubPremier 6" tvg-logo="https://live.fanmingming.cn/tv/HubPremier 6.png" group-title="✴️今日马来✴️",HubPremier 6
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMRACGpZpHNyeDDwiePe0yDE/ts
+#EXTINF:-1 tvg-name="Hub Premier 7" tvg-logo="https://live.fanmingming.cn/tv/Hub Premier 7.png" group-title="✴️今日马来✴️",Hub Premier 7
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMcV0nM5_bUHr1l7hCFE-pyA/ts
+#EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://live.fanmingming.cn/tv/SPOTV.png" group-title="✴️今日马来✴️",SPOTV
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWR4H5O6QQ1Ugb2W5P0zo_0/ts
+#EXTINF:-1 tvg-name="SPOTV 2" tvg-logo="https://live.fanmingming.cn/tv/SPOTV 2.png" group-title="✴️今日马来✴️",SPOTV 2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbyQY7q4T14GKSXT3nIuYWI/ts
+#EXTINF:-1 tvg-name="TVB 1" tvg-logo="https://live.fanmingming.cn/tv/TVB 1.png" group-title="✴️今日马来✴️",TVB 1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSi8NIVL0MJcENReOzqSapI/ts
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://live.fanmingming.cn/tv/TVB J1.png" group-title="✴️今日马来✴️",TVB J1
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYeEsWd55WCuYSsCWb-8870/ts
+#EXTINF:-1 tvg-name="TVBE" tvg-logo="https://live.fanmingming.cn/tv/TVBE.png" group-title="✴️今日马来✴️",TVBE
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVdMVn-SjBsgmVA94sSmwKg/ts
+#EXTINF:-1 tvg-name="TVB News" tvg-logo="https://live.fanmingming.cn/tv/TVB News.png" group-title="✴️今日马来✴️",TVB News
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfm_F4Td8ExFyJTsGEH106Q/ts
+#EXTINF:-1 tvg-name="TVB Drama" tvg-logo="https://live.fanmingming.cn/tv/TVB Drama.png" group-title="✴️今日马来✴️",TVB Drama
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYRbI6hidLJTlm7nRJpFlRE/ts
+#EXTINF:-1 tvg-name="Fairchild E 新时代多伦多" tvg-logo="https://live.fanmingming.cn/tv/Fairchild E 新时代多伦多.png" group-title="✴️今日马来✴️",Fairchild E 新时代多伦多
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMY3G41_XqaDGbnG5HCgErg0/ts
+#EXTINF:-1 tvg-name="Fairchild W 新时代温哥华" tvg-logo="https://live.fanmingming.cn/tv/Fairchild W 新时代温哥华.png" group-title="✴️今日马来✴️",Fairchild W 新时代温哥华
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMeeurfYllrk4ei2TdOC08oI/ts
+#EXTINF:-1 tvg-name="Fairchild 2 新时代2" tvg-logo="https://live.fanmingming.cn/tv/Fairchild 2 新时代2.png" group-title="✴️今日马来✴️",Fairchild 2 新时代2
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUzoF-GWORwGF_lmxNWyfMA/ts
+#EXTINF:-1 tvg-name="TALENT 城市电视" tvg-logo="https://live.fanmingming.cn/tv/TALENT 城市电视.png" group-title="✴️今日马来✴️",TALENT 城市电视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSEfQ9gfwfTRKtu-uycUSR0/ts
+#EXTINF:-1 tvg-name="LS Times 龙翔时代" tvg-logo="https://live.fanmingming.cn/tv/LS Times 龙翔时代.png" group-title="✴️今日马来✴️",LS Times 龙翔时代
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMafQrpKWSEj90hpEAuyHDBQ/ts
+#EXTINF:-1 tvg-name="WOWtv" tvg-logo="https://live.fanmingming.cn/tv/WOWtv.png" group-title="✴️今日马来✴️",WOWtv
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUSsmD778EJb7uX4M95S6n4/ts
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="✴️今日马来✴️",凤凰资讯
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMT4zPA3LpCl2u-_ogzDp7vc/ts
+#EXTINF:-1 tvg-name="凤凰卫视美洲" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视美洲.png" group-title="✴️今日马来✴️",凤凰卫视美洲
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMYYWgSquDFQy5d3UBXfyYso/ts
+#EXTINF:-1 tvg-name="加拿大600新闻" tvg-logo="https://live.fanmingming.cn/tv/加拿大600新闻.png" group-title="✴️今日马来✴️",加拿大600新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMQDwlPhTtff5adGb69is7hM/ts
+#EXTINF:-1 tvg-name="东森美洲新闻" tvg-logo="https://live.fanmingming.cn/tv/东森美洲新闻.png" group-title="✴️今日马来✴️",东森美洲新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZUSBX4_hmFZIoYY6LvNsWg/ts
+#EXTINF:-1 tvg-name="东森美洲卫视" tvg-logo="https://live.fanmingming.cn/tv/东森美洲卫视.png" group-title="✴️今日马来✴️",东森美洲卫视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMY29iCy_mZx-a8Il7LB7qBE/ts
+#EXTINF:-1 tvg-name="超视美洲" tvg-logo="https://live.fanmingming.cn/tv/超视美洲.png" group-title="✴️今日马来✴️",超视美洲
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZsFC3hTuQEyetj6yiVaMZs/ts
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="✴️今日马来✴️",台视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUrmnJKR2BSONFM84f_U2qU/ts
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="✴️今日马来✴️",TVBS新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMZC7oeH653RSc26ESO2ccoU/ts
+#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.cn/tv/TVBS亚洲.png" group-title="✴️今日马来✴️",TVBS亚洲
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfoVlvOkZkucLVzK28TKo9s/ts
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png" group-title="✴️今日马来✴️",民视新闻
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMdDeBi7mVTsLfiuwXp_G6R8/ts
+#EXTINF:-1 tvg-name="东森中国台美洲版" tvg-logo="https://live.fanmingming.cn/tv/东森中国台美洲版.png" group-title="✴️今日马来✴️",东森中国台美洲版
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMbg6y32bL2snj_gKiVUA9YQ/ts
+#EXTINF:-1 tvg-name="中旺" tvg-logo="https://live.fanmingming.cn/tv/中旺.png" group-title="✴️今日马来✴️",中旺
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMXxzsAQZrPm-tddZiHzPnfY/ts
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="✴️今日马来✴️",CCTV4美洲
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMfgu2gLE6shf41vqdpXUov0/ts
+#EXTINF:-1 tvg-name="华夏电视" tvg-logo="https://live.fanmingming.cn/tv/华夏电视.png" group-title="✴️今日马来✴️",华夏电视
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWUdd8q-z63uraadZht9HPM/ts
+#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://live.fanmingming.cn/tv/北京国际.png" group-title="✴️今日马来✴️",北京国际
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMTO_mKedRqq7ZTDubjOArAM/ts
+#EXTINF:-1 tvg-name="上海东方国际" tvg-logo="https://live.fanmingming.cn/tv/上海东方国际.png" group-title="✴️今日马来✴️",上海东方国际
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMc2FYlykW8j8JQMBKlsfY5E/ts
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.cn/tv/湖南国际.png" group-title="✴️今日马来✴️",湖南国际
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMUvBIg61EoDY7b7V9QIE13Y/ts
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.cn/tv/浙江国际.png" group-title="✴️今日马来✴️",浙江国际
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMVv2tqX3w9SVBK98cFkhRjo/ts
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.fanmingming.cn/tv/江苏国际.png" group-title="✴️今日马来✴️",江苏国际
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMchQv9t8zDgoOGQYzC3UpZ4/ts
+#EXTINF:-1 tvg-name="CCTV娱乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV娱乐.png" group-title="✴️今日马来✴️",CCTV娱乐
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMSs_kQ6u74Fg5Mvo22UV4sU/ts
+#EXTINF:-1 tvg-name="CCTV戏曲" tvg-logo="https://live.fanmingming.cn/tv/CCTV戏曲.png" group-title="✴️今日马来✴️",CCTV戏曲
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMX9BZrCfBavlDtDDFjmv6AE/ts
+#EXTINF:-1 tvg-name="长城精品" tvg-logo="https://live.fanmingming.cn/tv/长城精品.png" group-title="✴️今日马来✴️",长城精品
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMWwcqiR3l2UcLZRyQNDIBDE/ts
+#EXTINF:-1 tvg-name="CCTV 9 DOC" tvg-logo="https://live.fanmingming.cn/tv/CCTV 9 DOC.png" group-title="✴️今日马来✴️",CCTV 9 DOC
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMU21mk4Haq3IyY410m1eKxY/ts
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="✴️今日马来✴️",CGTN
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMaDleOQQ7nWdFUEw1jahwOI/ts
+#EXTINF:-1 tvg-name="新唐人" tvg-logo="https://live.fanmingming.cn/tv/新唐人.png" group-title="✴️今日马来✴️",新唐人
+http://iptvpro.pw:35451/play/vMWTsHZdCAXWuUQoolilMckZY9zbD3hREsYgZA7uwaM/ts
